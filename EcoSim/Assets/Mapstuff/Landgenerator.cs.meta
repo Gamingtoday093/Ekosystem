@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1d17869f88a6aba4ca8979c458c455f2
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - wtile: {fileID: 2911760831207209080, guid: 1241f660a7e75f9409379738ecb22f83, type: 3}
+  - watermat: {instanceID: 0}
+  - grassmat: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
